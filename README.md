@@ -1,4 +1,4 @@
-# Airfoil Performance Estimator (Thin Airfoil Theory)
+# Python-Based Airfoil Performance Simulator
 
 ## Overview
 This project implements an Airfoil Performance Estimator based on Thin Airfoil Theory (TAT) to compute key aerodynamic parameters for airfoils. It allows users to estimate lift coefficient, moment coefficient, and angle of zero lift for various airfoil geometries using mathematical formulations of TAT.
